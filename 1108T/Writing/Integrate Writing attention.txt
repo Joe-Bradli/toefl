@@ -1,0 +1,67 @@
+1.同义词转换
+global sales = Worldwide sales
+drawbacks = flaws = disadvantages = negative influences
+the young = young people = youngster // the youngster of group at 19
+function = use 
+focus on = concentrate on 
+do experiments = conduct researches
+restore energy = conserve = preserve = reserve
+toxic = poisonous
+benefical = advantages
+harmful = hazardous = disadvantages = negative
+popular = prevailing
+monitor = regular
+increase = enlarge (the lenth of sth)
+firm = cooperation
+pursue = recieve
+pay attention = attach much importance to
+
+2.词性转变
+	People can benefit from sleep
+	Sleep can bring numerous benefits to people 
+	Sleep is benefical to people
+	People can be beneficiaries of sleep
+	
+	be harmful to 
+	cause harm 
+	do no harm than good
+
+3.主动变被动
+
+4.句子结构
+	A, B, and, C.
+	A, but B
+	A, and B
+	A; however B
+	A. However B
+	A which can B and C
+	非谓语 > 定语从句
+
+5.改变语法逻辑
+	The carbon dioxide leads to the greenhouse effect, which causes the sea level to rise and produces negative effects on weather
+							|
+							|
+	The carbon dioxode rises the sea level and negatively affect weather, leading to the greenhouse effect.
+
+	The book which was written by Jane in 1997 is interesting and valuable.
+							| 
+							|
+	The book written by Jane in 1997 is interesting and valuable.
+
+	Who will be the next president is unknown.
+							|	
+							|
+	It is unknown who will be the next president
+
+6.否定好
+It is not common that 
+It is not unusual that
+It is unlikely that
+
+7.表示许多
+A multitude of // numerous 
+I have made a multitude of errors // blunders
+
+8.
+
+ 
