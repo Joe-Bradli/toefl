@@ -57,7 +57,7 @@
 	个人：学习，生活，工作
 		学习：效率，学业压力，增长知识，找工作，学习方法
 		工作：收入，工作压力，晋升，效率，换工作，职业规划
-		生活：释放压力，节约/浪费钱，节约时间，浪费时间，兴趣爱好，社交，健康，身体，心里，各种能力，社会责任感，塑造性格                                             成就感，旅游，忠诚度
+		生活：释放压力，节约/浪费钱，节约时间，浪费时间，兴趣爱好，社交，健康，身体，心里，各种能力，社会责任感，塑造性格,成就感，旅游，忠诚度
 8.例子：	
 	gain a sence of achievement/shape one's ability
 	小孩子：regulate timetable/good habit/authority/mental development/characterstic/cultivate interests/cultivate ability
