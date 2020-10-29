@@ -21,47 +21,11 @@
 - more relaxing
 - pay more attention to
 
-### 素材库
-
-#### 题目1
-
-**Question**:
-
-> Some people prefer to make a plan with their friends about social activities, while others prefer to decided about what to do when they meet their friends. Which one do you prefer and why?
-
-**Answer**:
-
-> I prefer to make a plan in advance
->
-> Because it is more time-saving
->
-> However, if we make a decision when we meet each other, we are likely to have some disagreement.
->
-> For example
->
-> When I was in college
->
-> There was time that I decided to go shopping with my roommates
->
-> Usually, we often made some plans before we went out.
->
-> But, at that time, we didn't make any plans.
->
-> So, when we started to go out, we have different shopping malls to go which lead to a small quarrel
->
-> and we don't have much fun that day. 
-
-#### 题目2
-
-**Question**:
-
-**Answer**:
-
 
 
 ## Task2
 
-### 时间
+### ·时间
 
 - **45s** reading
 - ​       listening
@@ -83,7 +47,7 @@
 
 3. explain reason
 
-### 答题模板-complex123
+### 答题模板-complex
 
 - A student proposes that the university should ...
 
@@ -93,22 +57,13 @@
 - Secondly, she also mentions that ...
 - That's why the woman disagrees with that.
 
-### 答题模板-Simple23
+### 答题模板-Simple
 
 - The woman disagrees with the opinion that ...
-
 - Because
 - Firstly, she says that ...
 - Secondly, she also maintains that ...
 - That's why the woman disagrees with that.
-
-### 素材库
-
-#### 题目1
-
-**Question**:
-
-**Answer**:
 
 
 
@@ -144,14 +99,6 @@
 - Term is a way for people to do 
 - Term is a tendency that
 
-### 素材库
-
-#### 题目1
-
-**Question**:
-
-**Answer**:
-
 
 
 ## Task4
@@ -174,13 +121,29 @@
 - 1st feature
 - 2nd feature
 
-### 素材库
 
-#### 题目1
 
-**Question**:
+# Speaking Attention 
 
-**Answer**:
+## 弱读
+
+### p -> b
+
+- sport
+- expert
+- expensive
+- expect
+- experience
+
+### t -> d
+
+- steam 
+- starbucks
+- student
+
+### k -> g
+
+- sky
 
 
 
